@@ -1,0 +1,443 @@
+[
+  {
+    "activityDate": "2022-08-25T00:00:00",
+    "activityCode": "AM TRNSF E",
+    "redemptionDate": "2022-08-25T00:00:00",
+    "affiliateName": "Club Premier",
+    "amPoints": 1000,
+    "qualificablePoints": 0,
+    "description": {
+      "content": "Transfer miles from 00056307606 A Arellano (From Family Member to Head) TRNCR",
+      "contentEng": "Points for Transfer Earning",
+      "flight": "",
+      "flightClass": "",
+      "route": ""
+    },
+    "activityType": "TOM",
+    "pmaType": "EMA",
+    "recordLocator": "",
+    "ticketNumberTrans": "0",
+    "segmentsEarned": 0,
+    "pnrFlight": ""
+  },
+  {
+    "activityDate": "2022-08-25T00:00:00",
+    "activityCode": "AM TRNSF E",
+    "redemptionDate": "2022-08-25T00:00:00",
+    "affiliateName": "Club Premier",
+    "amPoints": 1000,
+    "qualificablePoints": 0,
+    "description": {
+      "content": "Transfer miles from 00056307606 A Arellano (From Family Member to Head) TRNCR",
+      "contentEng": "Points for Transfer Earning",
+      "flight": "",
+      "flightClass": "",
+      "route": ""
+    },
+    "activityType": "TOM",
+    "pmaType": "EMA",
+    "recordLocator": "",
+    "ticketNumberTrans": "0",
+    "segmentsEarned": 0,
+    "pnrFlight": ""
+  },
+  {
+    "activityDate": "2022-08-25T00:00:00",
+    "activityCode": "AM TRNSF E",
+    "redemptionDate": "2022-08-25T00:00:00",
+    "affiliateName": "Club Premier",
+    "amPoints": 1000,
+    "qualificablePoints": 0,
+    "description": {
+      "content": "Transfer miles from 00056307606 A Arellano (From Family Member to Head) TRNCR",
+      "contentEng": "Points for Transfer Earning",
+      "flight": "",
+      "flightClass": "",
+      "route": ""
+    },
+    "activityType": "TOM",
+    "pmaType": "EMA",
+    "recordLocator": "",
+    "ticketNumberTrans": "0",
+    "segmentsEarned": 0,
+    "pnrFlight": ""
+  },
+  {
+    "activityDate": "2022-08-25T00:00:00",
+    "activityCode": "AM TRNSF E",
+    "redemptionDate": "2022-08-25T00:00:00",
+    "affiliateName": "Club Premier",
+    "amPoints": 1000,
+    "qualificablePoints": 0,
+    "description": {
+      "content": "Transfer miles from 00056307606 A Arellano (From Family Member to Head) TRNCR",
+      "contentEng": "Points for Transfer Earning",
+      "flight": "",
+      "flightClass": "",
+      "route": ""
+    },
+    "activityType": "TOM",
+    "pmaType": "EMA",
+    "recordLocator": "",
+    "ticketNumberTrans": "0",
+    "segmentsEarned": 0,
+    "pnrFlight": ""
+  },
+  {
+    "activityDate": "2022-08-25T00:00:00",
+    "activityCode": "AM TRNSF E",
+    "redemptionDate": "2022-08-25T00:00:00",
+    "affiliateName": "Club Premier",
+    "amPoints": 1000,
+    "qualificablePoints": 0,
+    "description": {
+      "content": "Transfer miles from 00056307606 A Arellano (From Family Member to Head) TRNCR",
+      "contentEng": "Points for Transfer Earning",
+      "flight": "",
+      "flightClass": "",
+      "route": ""
+    },
+    "activityType": "TOM",
+    "pmaType": "EMA",
+    "recordLocator": "",
+    "ticketNumberTrans": "0",
+    "segmentsEarned": 0,
+    "pnrFlight": ""
+  },
+  {
+    "activityDate": "2022-08-25T00:00:00",
+    "activityCode": "AM TRNSF E",
+    "redemptionDate": "2022-08-25T00:00:00",
+    "affiliateName": "Club Premier",
+    "amPoints": 1000,
+    "qualificablePoints": 0,
+    "description": {
+      "content": "Transfer miles from 00056307606 A Arellano (From Family Member to Head) TRNCR",
+      "contentEng": "Points for Transfer Earning",
+      "flight": "",
+      "flightClass": "",
+      "route": ""
+    },
+    "activityType": "TOM",
+    "pmaType": "EMA",
+    "recordLocator": "",
+    "ticketNumberTrans": "0",
+    "segmentsEarned": 0,
+    "pnrFlight": ""
+  },
+  {
+    "activityDate": "2022-08-23T19:10:56",
+    "activityCode": "AM TRNSF R",
+    "redemptionDate": "2022-08-23T00:00:00",
+    "affiliateName": "Club Premier",
+    "amPoints": -1000,
+    "qualificablePoints": 0,
+    "description": {
+      "content": "Transfer miles to 00056307606 A Arellano (From Family Head to Member) TRNDB",
+      "contentEng": "Transfer miles to 00056307606 A Arellano (From Family Head to Member)",
+      "flight": "",
+      "flightClass": "",
+      "route": ""
+    },
+    "activityType": "TOM",
+    "pmaType": "RMA",
+    "recordLocator": "",
+    "ticketNumberTrans": "0",
+    "segmentsEarned": 0,
+    "pnrFlight": ""
+  },
+  {
+    "activityDate": "2022-08-23T00:00:00",
+    "activityCode": "AM TRNSF E",
+    "redemptionDate": "2022-08-23T00:00:00",
+    "affiliateName": "Club Premier",
+    "amPoints": 2000,
+    "qualificablePoints": 0,
+    "description": {
+      "content": "Transfer miles from 00056307606 A Arellano (From Family Member to Head) TRNCR",
+      "contentEng": "Points for Transfer Earning",
+      "flight": "",
+      "flightClass": "",
+      "route": ""
+    },
+    "activityType": "TOM",
+    "pmaType": "EMA",
+    "recordLocator": "",
+    "ticketNumberTrans": "0",
+    "segmentsEarned": 0,
+    "pnrFlight": ""
+  },
+  {
+    "activityDate": "2022-08-23T00:00:00",
+    "activityCode": "AM TRNSF E",
+    "redemptionDate": "2022-08-23T00:00:00",
+    "affiliateName": "Club Premier",
+    "amPoints": 30000,
+    "qualificablePoints": 0,
+    "description": {
+      "content": "Transfer miles from 00056307606 A Arellano (From Family Member to Head) TRNCR",
+      "contentEng": "Points for Transfer Earning",
+      "flight": "",
+      "flightClass": "",
+      "route": ""
+    },
+    "activityType": "TOM",
+    "pmaType": "EMA",
+    "recordLocator": "",
+    "ticketNumberTrans": "0",
+    "segmentsEarned": 0,
+    "pnrFlight": ""
+  },
+  {
+    "activityDate": "2022-08-23T00:00:00",
+    "activityCode": "AM TRNSF E",
+    "redemptionDate": "2022-08-23T00:00:00",
+    "affiliateName": "Club Premier",
+    "amPoints": 10000,
+    "qualificablePoints": 0,
+    "description": {
+      "content": "Transfer miles from 00056307606 A Arellano (From Family Member to Head) TRNCR",
+      "contentEng": "Points for Transfer Earning",
+      "flight": "",
+      "flightClass": "",
+      "route": ""
+    },
+    "activityType": "TOM",
+    "pmaType": "EMA",
+    "recordLocator": "",
+    "ticketNumberTrans": "0",
+    "segmentsEarned": 0,
+    "pnrFlight": ""
+  },
+  {
+    "activityDate": "2022-08-23T00:00:00",
+    "activityCode": "AM TRNSF E",
+    "redemptionDate": "2022-08-23T00:00:00",
+    "affiliateName": "Club Premier",
+    "amPoints": 20000,
+    "qualificablePoints": 0,
+    "description": {
+      "content": "Transfer miles from 00056307606 A Arellano (From Family Member to Head) TRNCR",
+      "contentEng": "Points for Transfer Earning",
+      "flight": "",
+      "flightClass": "",
+      "route": ""
+    },
+    "activityType": "TOM",
+    "pmaType": "EMA",
+    "recordLocator": "",
+    "ticketNumberTrans": "0",
+    "segmentsEarned": 0,
+    "pnrFlight": ""
+  },
+  {
+    "activityDate": "2022-08-23T00:00:00",
+    "activityCode": "AM TRNSF E",
+    "redemptionDate": "2022-08-23T00:00:00",
+    "affiliateName": "Club Premier",
+    "amPoints": 1000,
+    "qualificablePoints": 0,
+    "description": {
+      "content": "Transfer miles from 00056307606 A Arellano (From Family Member to Head) TRNCR",
+      "contentEng": "Points for Transfer Earning",
+      "flight": "",
+      "flightClass": "",
+      "route": ""
+    },
+    "activityType": "TOM",
+    "pmaType": "EMA",
+    "recordLocator": "",
+    "ticketNumberTrans": "0",
+    "segmentsEarned": 0,
+    "pnrFlight": ""
+  },
+  {
+    "activityDate": "2022-08-23T00:00:00",
+    "activityCode": "AM TRNSF E",
+    "redemptionDate": "2022-08-23T00:00:00",
+    "affiliateName": "Club Premier",
+    "amPoints": 1000,
+    "qualificablePoints": 0,
+    "description": {
+      "content": "Transfer miles from 00056307606 A Arellano (From Family Member to Head) TRNCR",
+      "contentEng": "Points for Transfer Earning",
+      "flight": "",
+      "flightClass": "",
+      "route": ""
+    },
+    "activityType": "TOM",
+    "pmaType": "EMA",
+    "recordLocator": "",
+    "ticketNumberTrans": "0",
+    "segmentsEarned": 0,
+    "pnrFlight": ""
+  },
+  {
+    "activityDate": "2022-08-23T00:00:00",
+    "activityCode": "AM TRNSF E",
+    "redemptionDate": "2022-08-23T00:00:00",
+    "affiliateName": "Club Premier",
+    "amPoints": 1000,
+    "qualificablePoints": 0,
+    "description": {
+      "content": "Transfer miles from 00056307606 A Arellano (From Family Member to Head) TRNCR",
+      "contentEng": "Points for Transfer Earning",
+      "flight": "",
+      "flightClass": "",
+      "route": ""
+    },
+    "activityType": "TOM",
+    "pmaType": "EMA",
+    "recordLocator": "",
+    "ticketNumberTrans": "0",
+    "segmentsEarned": 0,
+    "pnrFlight": ""
+  },
+  {
+    "activityDate": "2022-08-19T10:30:20",
+    "activityCode": "AM TRNSF R",
+    "redemptionDate": "2022-08-19T00:00:00",
+    "affiliateName": "Club Premier",
+    "amPoints": -80000,
+    "qualificablePoints": 0,
+    "description": {
+      "content": "Transfer miles to 00056307606 A Arellano (From Family Head to Member) TRNDB",
+      "contentEng": "Transfer miles to 00056307606 A Arellano (From Family Head to Member)",
+      "flight": "",
+      "flightClass": "",
+      "route": ""
+    },
+    "activityType": "TOM",
+    "pmaType": "RMA",
+    "recordLocator": "",
+    "ticketNumberTrans": "0",
+    "segmentsEarned": 0,
+    "pnrFlight": ""
+  },
+  {
+    "activityDate": "2022-08-19T09:50:57",
+    "activityCode": "AM TRNSF R",
+    "redemptionDate": "2022-08-19T00:00:00",
+    "affiliateName": "Club Premier",
+    "amPoints": -40000,
+    "qualificablePoints": 0,
+    "description": {
+      "content": "Transfer miles to 00056307606 A Arellano (From Family Head to Member) TRNDB",
+      "contentEng": "Transfer miles to 00056307606 A Arellano (From Family Head to Member)",
+      "flight": "",
+      "flightClass": "",
+      "route": ""
+    },
+    "activityType": "TOM",
+    "pmaType": "RMA",
+    "recordLocator": "",
+    "ticketNumberTrans": "0",
+    "segmentsEarned": 0,
+    "pnrFlight": ""
+  },
+  {
+    "activityDate": "2022-08-19T09:47:56",
+    "activityCode": "AM TRNSF R",
+    "redemptionDate": "2022-08-19T00:00:00",
+    "affiliateName": "Club Premier",
+    "amPoints": -30000,
+    "qualificablePoints": 0,
+    "description": {
+      "content": "Transfer miles to 00056307606 A Arellano (From Family Head to Member) TRNDB",
+      "contentEng": "Transfer miles to 00056307606 A Arellano (From Family Head to Member)",
+      "flight": "",
+      "flightClass": "",
+      "route": ""
+    },
+    "activityType": "TOM",
+    "pmaType": "RMA",
+    "recordLocator": "",
+    "ticketNumberTrans": "0",
+    "segmentsEarned": 0,
+    "pnrFlight": ""
+  },
+  {
+    "activityDate": "2022-08-19T09:46:19",
+    "activityCode": "AM TRNSF R",
+    "redemptionDate": "2022-08-19T00:00:00",
+    "affiliateName": "Club Premier",
+    "amPoints": -10000,
+    "qualificablePoints": 0,
+    "description": {
+      "content": "Transfer miles to 00056307606 A Arellano (From Family Head to Member) TRNDB",
+      "contentEng": "Transfer miles to 00056307606 A Arellano (From Family Head to Member)",
+      "flight": "",
+      "flightClass": "",
+      "route": ""
+    },
+    "activityType": "TOM",
+    "pmaType": "RMA",
+    "recordLocator": "",
+    "ticketNumberTrans": "0",
+    "segmentsEarned": 0,
+    "pnrFlight": ""
+  },
+  {
+    "activityDate": "2022-08-17T11:52:25",
+    "activityCode": "AM TRNSF R",
+    "redemptionDate": "2022-08-17T00:00:00",
+    "affiliateName": "Club Premier",
+    "amPoints": -5000,
+    "qualificablePoints": 0,
+    "description": {
+      "content": "Transfer miles to 00056307606 A Arellano (From Family Head to Member) TRNDB",
+      "contentEng": "Transfer miles to 00056307606 A Arellano (From Family Head to Member)",
+      "flight": "",
+      "flightClass": "",
+      "route": ""
+    },
+    "activityType": "TOM",
+    "pmaType": "RMA",
+    "recordLocator": "",
+    "ticketNumberTrans": "0",
+    "segmentsEarned": 0,
+    "pnrFlight": ""
+  },
+  {
+    "activityDate": "2022-08-17T00:00:00",
+    "activityCode": "AM TRNSF E",
+    "redemptionDate": "2022-08-17T00:00:00",
+    "affiliateName": "Club Premier",
+    "amPoints": 1000,
+    "qualificablePoints": 0,
+    "description": {
+      "content": "Transfer miles from 00056307606 A Arellano (From Family Member to Head) TRNCR",
+      "contentEng": "Points for Transfer Earning",
+      "flight": "",
+      "flightClass": "",
+      "route": ""
+    },
+    "activityType": "TOM",
+    "pmaType": "EMA",
+    "recordLocator": "",
+    "ticketNumberTrans": "0",
+    "segmentsEarned": 0,
+    "pnrFlight": ""
+  },
+  {
+    "activityDate": "2022-07-04T15:47:18",
+    "activityCode": "CP EXP   ",
+    "redemptionDate": "2022-07-04T00:00:00",
+    "affiliateName": "Club Premier",
+    "amPoints": -21500,
+    "qualificablePoints": 0,
+    "description": {
+      "content": "Venta de Experiencias Aeromexico Rewards ACTDB",
+      "contentEng": "Venta de Experiencias Aeromexico Rewards",
+      "flight": "",
+      "flightClass": "",
+      "route": ""
+    },
+    "activityType": "EXPER",
+    "pmaType": "RMA",
+    "recordLocator": "PNR",
+    "ticketNumberTrans": "",
+    "segmentsEarned": 0,
+    "pnrFlight": "PNR"
+  }
+]
